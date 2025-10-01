@@ -1,0 +1,36 @@
+{
+    "id": 1,
+    "cells": [
+        {
+            "id": 1,
+            "resources": [
+                {
+                    "id": 1,
+                    "process_times": [
+                        3,
+                        2,
+                        2
+                    ],
+                    "setup_times": [
+                        1,
+                        2,
+                        1
+                    ]
+                },
+                {
+                    "id": 2,
+                    "process_times": [
+                        2,
+                        3,
+                        2
+                    ],
+                    "setup_times": [
+                        2,
+                        1,
+                        1
+                    ]
+                }
+            ]
+        }
+    ]
+}
