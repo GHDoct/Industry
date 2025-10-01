@@ -1,11 +1,11 @@
 __pycache__/
 all_in_one_generation/
 AZA\ light/
-convergeance_tabou/
+#convergeance_tabou/
 gants/
-generated_data/
-generated_data_per_family/
-generated_models/
-generated_models_family/
-logs_recherche_tabou/
+#generated_data/
+#generated_data_per_family/
+#generated_models/
+#generated_models_family/
+#logs_recherche_tabou/
 virtual_environment/
